@@ -1,13 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgurujjang&count_bg=%233DA5C8&title_bg=%23113BD0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# :page_facing_up: Index
-- [:computer: **개요**](#computer-개요)
-- [:gun: **나의 도구**](#gun-Skills)
-- [:pizza: **링크**](#pizza-링크)
-- [:trollface: **코드 공부**](#Contacts)
-
-<br>
-
 ![fightmeat's GitHub stats](https://github-readme-stats.vercel.app/api?username=fightmeat&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lees4144)](https://solved.ac/lees4144/)
 
@@ -48,3 +40,11 @@
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gurujjang@gmail.com)](mailto:niling41@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:guru0615@naver.com)](mailto:lees4144@naver.com)
+
+# :page_facing_up: Index
+- [:computer: **개요**](#computer-개요)
+- [:gun: **나의 도구**](#gun-Skills)
+- [:pizza: **링크**](#pizza-링크)
+- [:trollface: **코드 공부**](#Contacts)
+
+<br>
