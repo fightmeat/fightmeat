@@ -9,7 +9,7 @@
 
 ### :computer: 개요
 ---
-<img src="https://github.com/fightmeat/photos/blob/9ae2402263b51f7524273b4c4462cca006dc323b/qr.jpg" width="900" height="1100"/><br><br>
+<img src="https://github.com/fightmeat/photos/blob/9ae2402263b51f7524273b4c4462cca006dc323b/qr.jpg" width="800" height="1000"/><br><br>
 
 > **프로젝트**: 개인 포트폴리오 사이트<br><br>
 > **기획 및 제작**: 이승훈<br><br>
