@@ -3,12 +3,14 @@
 ![fightmeat's GitHub stats](https://github-readme-stats.vercel.app/api?username=fightmeat&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lees4144)](https://solved.ac/lees4144/)
 
-# Index
-- [:computer: **개요**](#computer-개요)
-- [:gun: **나의 도구**](#gun-Skills)
-- [:pizza: **링크**](#pizza-링크)
-- [:trollface: **코드 공부**](#test)
+# Skills
 
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=Oracle&logoColor=white)
+
+# Index
+- [여기에 표기되는거](#test)
 <br>
 
 ### 개요
@@ -21,11 +23,6 @@
 <br>
 
 
-# 💪Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=Oracle&logoColor=white)
 
 
 ### :calendar: 커밋 히스토리
