@@ -18,4 +18,4 @@
 
 # 📷 QR
 
-<img src="https://github.com/fightmeat/photos/blob/5362c25f51aca90556f32fe9b69dbed2df75d271/QR.jpg">
+<img src="https://github.com/fightmeat/photos/blob/c4187bb6f7ba34bf09ed4d484e1bd67a9e573dfb/QR.png">
