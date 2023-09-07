@@ -16,4 +16,4 @@
 
 # 📷 QR
 
-<img src="https://github.com/fightmeat/photos/blob/5362c25f51aca90556f32fe9b69dbed2df75d271/QR.jpg.jpg" width="800" height="1000"/><br>
+<img src="https://github.com/fightmeat/photos/blob/5362c25f51aca90556f32fe9b69dbed2df75d271/QR.jpg" width="800" height="1000"/><br>
