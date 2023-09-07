@@ -25,21 +25,8 @@
 
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
-<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
-<img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
-<img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=Twitch&logoColor=white">
-
-
-
-
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=Oracle&logoColor=white)
 
 ### :pizza: 링크
 ---
