@@ -4,6 +4,7 @@
 ![fightmeat GitHub stats](https://github-readme-stats.vercel.app/api?username=fightmeat&show_icons=true&theme=nightowl)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=fightmeat)](https://solved.ac/fightmeat)<br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fightmeat)](https://solved.ac/fightmeat/)<br><br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatngus1691)](https://solved.ac/rlatngus1691/)
 
 # 🖥 Skills
 
