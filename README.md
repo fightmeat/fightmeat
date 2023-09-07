@@ -1,7 +1,4 @@
-# PORTFOLIO 
-<br>
-
-## :page_facing_up: 목차
+# :page_facing_up: 목차
 - [:computer: **개요**](#computer-개요)
 - [:gun: **나의 도구**](#gun-나의-도구)
 - [:pizza: **링크**](#pizza-링크)
