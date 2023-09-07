@@ -12,12 +12,12 @@
 ![R](https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=Oracle&logoColor=white)
 
 # Index
-- [여기에 표기되는거](#test)
+- [여기에 표기되는거](#QR)
 <br>
 
 ### 개요
 ---
-<img src="https://github.com/fightmeat/photos/blob/9ae2402263b51f7524273b4c4462cca006dc323b/qr.jpg" width="800" height="1000"/><br><br>
+
 
 > **프로젝트**: 개인 포트폴리오 사이트<br><br>
 > **기획 및 제작**: 이승훈<br><br>
@@ -39,7 +39,9 @@
 ![Kyounghee's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurujjang&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatngus1691)](https://solved.ac/rlatngus1691/)
 
-# test
+# QR
+
+<img src="https://github.com/fightmeat/photos/blob/9ae2402263b51f7524273b4c4462cca006dc323b/qr.jpg" width="800" height="1000"/><br><br>
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
