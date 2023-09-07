@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffightmeat&count_bg=%233DA5C8&title_bg=%23113BD0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 # 📝 PORTPOLIO
 
 ![fightmeat GitHub stats](https://github-readme-stats.vercel.app/api?username=fightmeat&show_icons=true&theme=nightowl)
@@ -12,7 +14,7 @@
 
 # 📬 Contacts
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffightmeat&count_bg=%233DA5C8&title_bg=%23113BD0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nilping41@gmail.com)](mailto:niling41@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:lees4144@naver.com)](mailto:lees4144@naver.com)<br><br>
 
