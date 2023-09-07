@@ -22,5 +22,12 @@
 
 <img src="https://github.com/fightmeat/photos/blob/c4187bb6f7ba34bf09ed4d484e1bd67a9e573dfb/QR.png">
 
-<!-- 카메라로 찍으면 밑에 값이 나오는데 QR로 변환한거에요>
-<!--TRACSE_ID=AIG20210000313652,TRACSE_TME=10,CRSE_TRACSE_SE=C0061>
+<!-- 카메라로 찍으면 밑에 값이 나오는데 QR로 변환한거에요 TRACSE_ID=AIG20210000313652,TRACSE_TME=10,CRSE_TRACSE_SE=C0061 -->
+
+# ✅ Agenda
+
+[ ] 다른사람한테 깃허브 들어와서 숫자 늘어나는지 확인
+[ ] 강사님한테 월요일에 병원가는거 말하기
+[ ] 매니저님한테 출석부 받기
+[ ] 언제 커밋했는지 뜨는거 버그 수정해보기
+[ ] 어떤 언어로 코딩했는지 뜨는거 만들어서 포트폴리오에 올리기
