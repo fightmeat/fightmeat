@@ -2,9 +2,8 @@
 - [:computer: **개요**](#computer-개요)
 - [:gun: **나의 도구**](#gun-Skills)
 - [:pizza: **링크**](#pizza-링크)
-- [:trollface: **코드 공부**](#trollface-코드공부)
-- [:bar_chart: **데이터 분석**](#bar_chart-데이터분석)
-- [:calendar: **커밋 히스토리**](#calendar-커밋-히스토리)
+- [:trollface: **코드 공부**](#Contacts)
+
 <br>
 
 ### :computer: 개요
@@ -23,58 +22,16 @@
 
 # 💪Skills
 
----
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=Oracle&logoColor=white)
 
-### :pizza: 링크
----
-https://fightmeat.github.io/
-<br>
-
-### :trollface: 코드공부
----
-```python
-def nalmuk():
-  return "날먹하게 해줘"
-    
-if __name__ == "__main__":
-  print(nalmuk())   
-```
-<br>
-
-### :bar_chart: 데이터분석
----
-- 데이터 베이스
-- 코딩조아
-<br>
 
 ### :calendar: 커밋 히스토리
 ---
 - [평범한 나의 기록](https://github.com/fightmeat/TIL/commits/main "커밋현황")
 - [3D한 나의 기록](https://www.mornhee.works/apps/github-town/fightmeat/2023 "커밋현황")
 <br>
-
-### 할 일
----
-- [ ] 포트폴리오 사이트만들기
-- [X] 깃허브 대충 작성해보기
-- [ ] 3차 과제 프로그래밍하기      
-<br>
-
-<details>
-<summary>여기를 눌러주세요</summary>
-<div markdown="1">    
-  
-|**이런식**|으로|뭔가를|
-|:---:|---:|---|
-|만들수도|⭐⭐⭐⭐⭐|있다고|
-|하는데|⭐⭐⭐⭐|저는|
-|잘|⭐⭐⭐|모르겠어요|
-
-</div>
-</details>
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgurujjang&count_bg=%233DA5C8&title_bg=%23113BD0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
