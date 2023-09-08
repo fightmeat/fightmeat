@@ -13,12 +13,12 @@
   
 - ## Intermediate
   ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white)
-  ![R](https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=Oracle&logoColor=white)
+  ![R](https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&style=flat-square&logo=SQLite&logoColor=white)
   ![Flask](https://img.shields.io/badge/Flask-000000.svg?&style=flat-square&logo=Flask&logoColor=white)
   ![anaconda](https://img.shields.io/badge/anaconda-44A833.svg?&style=flat-square&logo=anaconda&logoColor=white)<br><br>
-  
+
 # 📬 Contacts
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nilping41@gmail.com)](mailto:niling41@gmail.com)
@@ -31,10 +31,7 @@
 
 # ✅ Agenda
 
-- [ ] 강사님한테 월요일에 병원가는거 말하기
-- [x] 매니저님한테 출석부 받기
-- [x] 커밋뜨는거 시간대가 언제언제인지 확인 해보기
 - [ ] 어떤 언어로 코딩했는지 뜨는거 만들어서 포트폴리오에 올리기
-- [x] draw.io에 중간에 있는 박스 옮겨야함
 - [ ] 예비군 하는거 전달하기 (9월 19일 ~ 9월 21일)
 - [ ] html, css, javascript는 자습해야한다.
+- [ ] 아이디어 노트에 생각나는 것 바로바로 작성하기
