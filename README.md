@@ -7,11 +7,11 @@
 
 # 🖥 Skills
 
-* Beginner<br>
+**Beginner**<br><br>
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=Oracle&logoColor=white)<br><br>
 
-* Intermediate<br>
+**Intermediate**<br><br>
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&style=flat-square&logo=SQLite&logoColor=white)
 
