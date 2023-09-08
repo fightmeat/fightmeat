@@ -10,7 +10,8 @@
 - ## Beginner
   ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-092E20.svg?&style=flat-square&logo=Django&logoColor=white)
-  
+  <!-- B1 : 기본적인 프로그래밍 개념을 이해하고 있다 (변수, 반복문, 조건문 등).
+       B2 : 간단한 프로그램을 작성할 수 있다.-->
 - ## Intermediate
   ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white)
   ![R](https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white)
@@ -18,6 +19,18 @@
   ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&style=flat-square&logo=SQLite&logoColor=white)
   ![Flask](https://img.shields.io/badge/Flask-000000.svg?&style=flat-square&logo=Flask&logoColor=white)
   ![anaconda](https://img.shields.io/badge/anaconda-44A833.svg?&style=flat-square&logo=anaconda&logoColor=white)<br><br>
+  <!-- I1 : 데이터 구조(배열, 리스트, 딕셔너리 등)를 이해하고 사용할 수 있다.
+       I2 : 여러 개의 함수를 사용하여 중급 수준의 프로그램을 작성할 수 있다.-->
+
+- ## Experienced
+  <!-- E1 : 객체 지향 프로그래밍 및 디자인 패턴을 이해하고 있으며, 복잡한 프로그램을 작성할 수 있다.
+       E2 : 코드 최적화와 디버깅에 능숙하다.-->
+- ## Expert
+  <!-- EX1 : 대규모 소프트웨어 프로젝트를 성공적으로 완료할 수 있는 경험이 있다.
+       EX2 : 고급 알고리즘을 이해하고 설계할 수 있다.-->
+- ## Master
+  <!-- M1 : 다양한 기술 스택과 프레임워크를 숙지하고 있다.
+       M2 : 새로운 기술을 빠르게 학습하고 팀을 이끌 수 있는 리더십 능력이 있다.-->
 
 # 📬 Contacts
 
