@@ -8,7 +8,7 @@
 # 🖥 Skills
 
 - ## Beginner
-  ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=GitlogoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-092E20.svg?&style=flat-square&logo=Django&logoColor=white)
   
 - ## Intermediate
