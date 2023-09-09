@@ -41,11 +41,10 @@
 <!-- 카메라로 찍으면 밑에 값이 나오는데 QR로 변환한거에요 TRACSE_ID=AIG20210000313652,TRACSE_TME=10,CRSE_TRACSE_SE=C0061 -->
 
 # Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fightmeat&layout=compact)](https://github.com/fightmeat/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fightmeat&layout=donut)](https://github.com/fightmeat/github-readme-stats)
 
 # ✅ Agenda
 
-- [ ] 어떤 언어로 코딩했는지 뜨는거 만들어서 포트폴리오에 올리기
 - [ ] 자기 객관화
 - [ ] html, css, javascript 자습하기
 - [ ] 아이디어 노트에 생각나는 것 바로바로 작성하기
