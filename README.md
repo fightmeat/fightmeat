@@ -20,14 +20,11 @@
   ![Github](https://img.shields.io/badge/github-181717.svg?&style=flat-square&logo=github&logoColor=white)
   ![anaconda](https://img.shields.io/badge/anaconda-44A833.svg?&style=flat-square&logo=anaconda&logoColor=white)<br><br>
   <!-- 이용하고자 하는 시스템의 구조를 이해했으며 여러 개의 함수나 도구를 사용할 수 있다.-->
-- ## Experienced
-  None
+<!-- - ## Experienced -->
   <!-- 프로그래밍 및 복잡한 코딩과 최적화와 디버깅에 능숙하다.-->
-- ## Expert
-  None
+<!--  -## Expert -->
   <!-- 대규모 소프트웨어 프로젝트를 성공적으로 완료한 경험이 있고 고급 알고리즘을 이해하고 설계할 수 있다.-->
-- ## Master
-  None
+<!-- - ## Master -->
   <!-- 팀을 이끌 수 있는 리더십 능력이 있다.-->
 
 # 📬 Contacts
