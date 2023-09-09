@@ -49,3 +49,5 @@
 - [ ] 하루에 적어도 한개이상은 커밋 
 - [ ] 백준이나 프로그래머스 하루에 적어도 한문제 풀기
 - [ ] 공모전 찾아보기
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fightmeat)](https://github.com/fightmeat/github-readme-stats)
