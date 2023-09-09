@@ -3,7 +3,7 @@
 # 📝 PORTPOLIO
 
 ![fightmeat GitHub stats](https://github-readme-stats.vercel.app/api?username=fightmeat&show_icons=true&theme=nightowl)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fightmeat&layout=donut)](https://github.com/fightmeat/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fightmeat&layout=compact)](https://github.com/fightmeat/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fightmeat)](https://solved.ac/fightmeat/)
 
 # 🖥 Skills
