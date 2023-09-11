@@ -40,6 +40,11 @@
 # 🌐 Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fightmeat&layout=donut)](https://github.com/fightmeat/github-readme-stats)
 
+# Commit
+- [평범한 나의 기록](https://github.com/fightmeat/TIL/commits/main "커밋현황")
+- [3D한 나의 기록](https://www.mornhee.works/apps/github-town/fightmeat/2023 "커밋현황")
+
+
 # ✅ Agenda
 
 - [ ] 자기 객관화
