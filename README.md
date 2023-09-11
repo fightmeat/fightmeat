@@ -42,7 +42,7 @@
 
 # Commit
 - [2D](https://github.com/fightmeat/TIL/commits/main "커밋현황")
-- - [2D](https://github.com/fightmeat/TIL/commits/main)
+- [2D](https://github.com/fightmeat/TIL/commits/main)
 - [3D](https://www.mornhee.works/apps/github-town/fightmeat/2023 "커밋현황")
 
 
