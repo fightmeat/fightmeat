@@ -10,6 +10,7 @@
 - ## Beginner
   ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-092E20.svg?&style=flat-square&logo=Django&logoColor=white)
+  ![Github](https://img.shields.io/badge/github-181717.svg?&style=flat-square&logo=github&logoColor=white)
   <!-- 기본적인 개념을 이해하고 간단한 예시를 작성할 수 있다.-->
 - ## Intermediate
   ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white)
@@ -17,7 +18,6 @@
   ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&style=flat-square&logo=SQLite&logoColor=white)
   ![Flask](https://img.shields.io/badge/Flask-000000.svg?&style=flat-square&logo=Flask&logoColor=white)
-  ![Github](https://img.shields.io/badge/github-181717.svg?&style=flat-square&logo=github&logoColor=white)
   ![anaconda](https://img.shields.io/badge/anaconda-44A833.svg?&style=flat-square&logo=anaconda&logoColor=white)<br><br>
   <!-- 이용하고자 하는 시스템의 구조를 이해했으며 여러 개의 함수나 도구를 사용할 수 있다.-->
 <!-- - ## Experienced -->
