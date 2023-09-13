@@ -37,10 +37,10 @@
 
 <img src="https://github.com/fightmeat/photos/blob/c4187bb6f7ba34bf09ed4d484e1bd67a9e573dfb/QR.png">
 <!-- 카메라로 찍으면 밑에 값이 나오는데 QR로 변환한거에요 TRACSE_ID=AIG20210000313652,TRACSE_TME=10,CRSE_TRACSE_SE=C0061 -->
-
+<!--
 # 🌐 Language
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fightmeat&layout=donut)](https://github.com/fightmeat/github-readme-stats)
+-->
 
 # 📆 Commit
 
