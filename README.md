@@ -34,8 +34,11 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:lees4144@naver.com)](mailto:lees4144@naver.com)<br><br>
 
 # 📷 QR
+<details>
+<summary><b>QR</b></summary>
 
 <img src="https://github.com/fightmeat/photos/blob/c4187bb6f7ba34bf09ed4d484e1bd67a9e573dfb/QR.png">
+</details>
 <!-- 카메라로 찍으면 밑에 값이 나오는데 QR로 변환한거에요 TRACSE_ID=AIG20210000313652,TRACSE_TME=10,CRSE_TRACSE_SE=C0061 -->
 <!--
 # 🌐 Language
