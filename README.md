@@ -35,7 +35,7 @@
 
 # 📷 QR
 <details>
-<summary><b>QR</b></summary>
+<summary><b>한국품질재단 QR</b></summary>
 
 <img src="https://github.com/fightmeat/photos/blob/c4187bb6f7ba34bf09ed4d484e1bd67a9e573dfb/QR.png">
 </details>
