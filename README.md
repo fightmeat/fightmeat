@@ -47,8 +47,8 @@
 
 # 📆 Commit
 
-- [2D](https://github.com/fightmeat/TIL/commits/main)
-- [3D](https://www.mornhee.works/apps/github-town/fightmeat/2023)
+- [커밋 히스토리](https://github.com/fightmeat/TIL/commits/main)
+- [커밋 3D 시각화](https://www.mornhee.works/apps/github-town/fightmeat/2023)
 
 # ✅ Agenda
 
