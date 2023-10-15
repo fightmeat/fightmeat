@@ -49,6 +49,11 @@
 
 - [커밋 히스토리](https://github.com/fightmeat/TIL/commits/main)
 - [커밋 3D 시각화](https://www.mornhee.works/apps/github-town/fightmeat/2023)
+  
+# 🏆 Awards and Honors
+
+- 제12회 전국대학생기타합주대회 금상
+- 서울과학기술대학교 전기정보공학과 졸업작품전시회 우수상
 
 # ✅ Agenda
 
