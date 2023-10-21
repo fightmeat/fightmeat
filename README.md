@@ -12,6 +12,8 @@
   ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-092E20.svg?&style=flat-square&logo=Django&logoColor=white)
   ![Github](https://img.shields.io/badge/github-181717.svg?&style=flat-square&logo=github&logoColor=white)
+  ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000.svg?&style=flat-square&logo=IntellijIDEA&logoColor=white)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
   <!-- 기본적인 개념을 이해하고 간단한 예시를 작성할 수 있다.-->
 - ## Intermediate
   ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white)
