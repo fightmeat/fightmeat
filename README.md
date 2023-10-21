@@ -19,6 +19,7 @@
   ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&style=flat-square&logo=SQLite&logoColor=white)
   ![Flask](https://img.shields.io/badge/Flask-000000.svg?&style=flat-square&logo=Flask&logoColor=white)
+  ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00.svg?&style=flat-square&logo=GoogleColab&logoColor=white)
   ![anaconda](https://img.shields.io/badge/anaconda-44A833.svg?&style=flat-square&logo=anaconda&logoColor=white)<br><br>
   <!-- 이용하고자 하는 시스템의 구조를 이해했으며 여러 개의 함수나 도구를 사용할 수 있다.-->
 <!-- - ## Experienced -->
