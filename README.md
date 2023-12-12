@@ -45,37 +45,34 @@
 <img src="https://github.com/fightmeat/photos/blob/c4187bb6f7ba34bf09ed4d484e1bd67a9e573dfb/QR.png">
 </details>
 <!-- 카메라로 찍으면 밑에 값이 나오는데 QR로 변환한거에요 TRACSE_ID=AIG20210000313652,TRACSE_TME=10,CRSE_TRACSE_SE=C0061 -->
-
+<!--
 # 🌐 Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fightmeat&layout=donut)](https://github.com/fightmeat/github-readme-stats)
-
+-->
 
 # 📆 Commit
 
 - [커밋 히스토리](https://github.com/fightmeat/TIL/commits/main)
 - [커밋 3D 시각화](https://www.mornhee.works/apps/github-town/fightmeat/2023)
   
+<!--
 # 🏆 Awards and Honors
 
 - 제12회 전국대학생기타합주대회 금상
 - 전기정보공학과 졸업작품전시회 우수상
+-->
 
 # ✅ Agenda
 
 - [ ] 매일을 마지막 날처럼 살기
-- [ ] 타인의 신념에 휘둘리지 말기
-- [ ] 남에게 미움받는 것을 두려워 말고 내 생각을 말하기
 - [ ] 나의 호기심과 직감을 믿기
 - [ ] 시간을 소중하게 사용하기
-- [ ] 스스로에게 솔직해지기
-- [ ] 아이디어 노트 작성하기
-- [ ] 1일 1커밋
-- [ ] 스프링부트와 자바를 이용해서 게시판 CRUD API 만들어보기
 
 # 🌟 Goals
 
-1. 남이 아닌 스스로에게 인정받는 것 사회 혹은 남의 인정은 필요 없다.
-2. 내가 사랑하고 좋아하는 일을 하는 것 그것을 위해서 선택과 집중도 필요하다.
-3. 내가 사랑하고 좋아하는 일을 아직 못 찾았다면 현실에 안주하지 말고 계속 도전할 것
-4. 끝없이 배우고 발전하는 것 항상 새로운 것을 배우고 실행해보고 바뀌는 것을 두려워하지 않기
-5. 목표에 집중하지 않고 목표에 도달하는 과정에 집중하기 실패를 통해서 배우는것이 중요하다.
+1. 남이 아닌 스스로에게 인정받는 것
+2. 내가 사랑하고 좋아하는 일을 하는 것
+3. 끝없이 배우고 발전하는 것
+4. 실행해보고 바뀌는 것을 두려워하지 않기
+5. 목표에 도달하는 과정에 집중하기
+6. 실패를 통해서 배우기
