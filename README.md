@@ -29,37 +29,11 @@
 <!-- - ## Master -->
   <!-- 팀을 이끌 수 있는 리더십 능력이 있다.-->
 
-# 📬 Contacts
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nilping41@gmail.com)](mailto:niling41@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:lees4144@naver.com)](mailto:lees4144@naver.com)<br><br>
-
-<!--
-# 📷 QR
-
-<details>
-<summary><b>한국품질재단 QR</b></summary>
-
-<img src="https://github.com/fightmeat/photos/blob/c4187bb6f7ba34bf09ed4d484e1bd67a9e573dfb/QR.png">
-</details>
-<!-- 카메라로 찍으면 밑에 값이 나오는데 QR로 변환한거에요 TRACSE_ID=AIG20210000313652,TRACSE_TME=10,CRSE_TRACSE_SE=C0061 -->
-<!--
-# 🌐 Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fightmeat&layout=donut)](https://github.com/fightmeat/github-readme-stats)
--->
-
 # 📆 Commit
 
 - [커밋 히스토리](https://github.com/fightmeat/TIL/commits/main)
 - [커밋 3D 시각화](https://www.mornhee.works/apps/github-town/fightmeat/2023)
   
-<!--
-# 🏆 Awards and Honors
-
-- 제12회 전국대학생기타합주대회 금상
-- 전기정보공학과 졸업작품전시회 우수상
--->
-
 # ✅ Agenda
 
 - [ ] 매일을 마지막 날처럼 살기
@@ -71,6 +45,7 @@
 1. 남이 아닌 스스로에게 인정받는 것
 2. 내가 사랑하고 좋아하는 일을 하는 것
 3. 끝없이 배우고 발전하는 것
+   
 4. 실행해보고 바뀌는 것을 두려워하지 않기
 5. 목표에 도달하는 과정에 집중하기
 6. 실패를 통해서 배우기
